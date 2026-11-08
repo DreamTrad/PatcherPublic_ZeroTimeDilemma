@@ -2,18 +2,15 @@
 
 import pathlib
 
-
 # == INFORMATIONS GÉNÉRALES ===================================================
 
-# Nom de l’exe généré
-EXE_NAME: str = "DreamTrad_patcheur_fr_.exe"
 # Nom de la fenêtre du logiciel
-NAME_WINDOW: str = "DreamTrad : Patcheur de "
+NAME_WINDOW: str = "DreamTrad : Patcheur de Zero Time Dilemma"
 
 # Indique si le jeu est une version Steam
 IS_STEAM_GAME: bool = True
 # Nom du dossier du jeu dans Steam (utilisé uniquement si IS_STEAM_GAME = True)
-STEAM_FOLDER: str = ""
+STEAM_FOLDER: str = "Zero Escape"
 
 
 # == OUTILS / ENVIRONNEMENT ===================================================
